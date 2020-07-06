@@ -2,7 +2,6 @@ import pygame
 import numpy as np
 import time, copy
 
-# from Starfield import Star
 class Star:
 
     def __init__(self, width:int, height:int, nstars:int, speed:float):
